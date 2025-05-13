@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Book Recommendation System</h1>
+This is a book recommendation system that uses both Weighted Rating and Collaborative Filtering method to recommend books.<br><br>
 
-<!--
-**FatimahAlbader/FatimahAlbader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The datasets used in this file were downloaded from kaggle
 
-Here are some ideas to get you started:
+Link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There are three datasets available for us:
+
+1- Books<br>
+2- Users<br>
+3- Ratings<br>
+
+Cosine Similarity has been used as a method of filtering and mapping for model.
